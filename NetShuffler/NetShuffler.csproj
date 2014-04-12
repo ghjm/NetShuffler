@@ -149,7 +149,6 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <None Include="app.config" />
-    <None Include="NetShuffler_TemporaryKey.pfx" />
     <None Include="Properties\DataSources\AppConfig.datasource" />
     <None Include="Properties\DataSources\NetShufflerForm.datasource" />
     <None Include="Properties\Settings.settings">
